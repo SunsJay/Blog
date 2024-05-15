@@ -3,7 +3,7 @@ const siteMetadata = {
   title: 'SunsJay Blog',
   author: 'SunsJay',
   headerTitle: 'SunsJay Blog',
-  description: '记录，分享',
+  description: '',
   language: 'zh-CN',
   theme: 'system', // system, dark or light
   siteUrl: 'https://tailwind-nextjs-starter-blog.vercel.app',
